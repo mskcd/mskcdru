@@ -1,2 +1,5 @@
 [project]
 name = mskcd
+
+[packages]
+lektor-netlify = 0.2
